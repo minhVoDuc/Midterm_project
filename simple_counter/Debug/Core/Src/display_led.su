@@ -1,0 +1,2 @@
+display_led.c:11:6:display_num	16	static
+display_led.c:68:6:clear_all_led	8	static
